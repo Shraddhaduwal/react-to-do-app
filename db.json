@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "text": "Do grocery shopping",
+      "date": "2021-03-30T00:00:00.000Z",
+      "reminder": false,
+      "id": 1
+    },
+    {
+      "text": "Complete Math Assignments",
+      "date": "2021-04-03T00:00:00.000Z",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "text": "Do Laundry",
+      "date": "2022-03-05T00:00:00.000Z",
+      "reminder": true,
+      "id": 3
+    },
+    {
+      "text": "Visit School",
+      "date": "2021-03-30T00:00:00.000Z",
+      "reminder": true,
+      "id": 4
+    }
+  ]
+}
