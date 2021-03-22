@@ -9,5 +9,5 @@ This is a to-do app that tracks all the tasks and sets reminder. It also uses a 
 ## To build for production
 `npm run build`
 
-## [In reference to](https://github.com/bradtraversy/react-crash-2021)
+#### [reference](https://github.com/bradtraversy/react-crash-2021)
 
